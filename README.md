@@ -31,12 +31,9 @@
 - **[Playground AI](https://playgroundai.com/) - Генератор картинок по примеру картинки.**
 - **[Microsoft Designer](https://designer.microsoft.com/) - Генератор картинок в хорошем качестве. 15 генераций в день.**
 - **[Skybox Lab](https://skybox.blockadelabs.com/) - Генератор панорам и видов с дронов. 15 генераций на месяц**
-- **[Deep AI](https://deepai.org/machine-learning-model/text2img) (FREE) - A straightforward, free image generator with lots of modification possibilities.**
-- **[RocketAI](https://rocketai.io/) (FREE) - Create and edit images for your e-commerce sites.**
-- **[Image To Meme](https://imagetomeme.com/) (FREEMIUM) - Transform an image into a timely meme right away.**
-- **[AI Emojis Generator](https://emojis.sh/) (FREE) - Generate your own custom emoji from a prompt.**
-- **[Artificial Art](https://artificial-art.eu/) (FREE) - An AI-powered artistic images and illustration generator with multiple settings.**
-- **[Stock AI](https://www.stockai.com/) (FREEMIUM) - Create images for all of your needs quickly and easily.**
-- **[IconLab AI](https://www.iconlabai.com/) (PAID) - An AI generator for the automated and personalized production of application icons.**
-- **[AnimeAI App](https://animeai.app/) (PAID) - Generate anime-style avatars from one of your images, with a variety of custom styles.** 
-- **[Image Mixer](https://huggingface.co/spaces/lambdalabs/image-mixer-demo) (FREE) - Combine different images to create a completely new illustration.** 
+- **[Deep AI](https://deepai.org/machine-learning-model/text2img) - Простой и бесплатный генератор изображений с разными стилями. Полностью бесплатный.**
+- **[RocketAI](https://rocketai.io/) - Создавайте и редактируйте изображения для сайтов электронной коммерции.**
+- **[AI Emojis Generator](https://emojis.sh/) - Генератор эмоджи по запросу.**
+- **[Artificial Art](https://artificial-art.eu/) - Генератор изображений с множеством моделей и настройками. Полностью бесплатный, но большая очередь.**
+- **[Huggingface Spaces](https://huggingface.co/spaces) - Пространства, где запущены модели нейросетей под любые нужды. Бесплатно.**
+- **[ImgSys Arena](https://imgsys.org/) - Арена, где можно попробовать в деле разные модели генерации изображений. Бесплатно.**
